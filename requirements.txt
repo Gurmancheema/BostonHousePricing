@@ -3,3 +3,4 @@ Flask
 sklearn
 pandas
 matplotlib
+gunicorn
