@@ -10,3 +10,4 @@ Create a new environment for the project
 '''
 conda create -p venv python==3.7 -y
     '''
+Refer to the "ipynb" code file for detailed EDA conducted on this dataset.
