@@ -1,4 +1,4 @@
-# BostonHousePricing
+# Boston House Pricing Project
 
 ### Software and tools requirement
 1. [Github Account](https://github.com)
